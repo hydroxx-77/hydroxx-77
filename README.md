@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hydroxx-77 a senior high school student from China 
-- 👀 I’m interested in Ph|mathematics|computer science and technology|IT|software
+- 👀 I’m interested in Physics|mathematics|computer science and technology|IT|software
 - 🌱 I’m currently learning those above
 - 💞️ I’m looking to collaborate on CSDN or other platforms
 - 📫 reach me through E-maii Topquack@protonmail.com
